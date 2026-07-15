@@ -23,4 +23,4 @@ Purchases are handled by Apple. Request a refund at [reportaproblem.apple.com](h
 Progress is stored on-device and synced via your private iCloud (CloudKit). Make sure iCloud is enabled for Enigmix and you're signed into the same Apple Account on each device. The daily puzzle is always playable offline.
 
 **Do you collect my data?**
-No personal data is collected by us — no accounts, no servers, no tracking. See the [Privacy Policy](https://mrdadpool.github.io/enigmix-legal/privacy-policy).
+No personal data is collected by us — no accounts, no servers, no tracking. See the [Privacy Policy](https://github.com/DadMadeAnApp/Enigmix-Privacy-Policy).
